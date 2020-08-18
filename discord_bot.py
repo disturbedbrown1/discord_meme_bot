@@ -6,7 +6,6 @@ import logging
 import random
 import shutil
 
-
 if not 'memes' in os.listdir():
     os.mkdir('memes')
 os.chdir('memes')
